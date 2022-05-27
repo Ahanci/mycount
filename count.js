@@ -46,6 +46,7 @@ down.addEventListener('click', function(){ counter--;
    resetCount.addEventListener('click', function (){
     counter=0;
     document.querySelector('.count').innerText= counter;
+    myCount.style.backgroundColor='green';
 
 
 

@@ -47,6 +47,7 @@ button{
 .count{
     border: 1px solid darkcyan;
     border-radius: 1rem;
-    padding: 1rem;
+    margin: 2rem;
+    padding: 3rem;
     font-size: 5rem;
 }
